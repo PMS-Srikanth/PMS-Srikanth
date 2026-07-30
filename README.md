@@ -109,8 +109,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/PMS-Srikanth?style=for-the-badge&logo=github&logoColor=white&color=22D3EE&labelColor=1a1b27" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/PMS-Srikanth?style=for-the-badge&logo=github&logoColor=white&color=22D3EE&labelColor=1a1b27" alt="Stars" />
+  <img height="180em" src="https://sri1710.vercel.app/api?username=PMS-Srikanth&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180em" src="https://sri1710.vercel.app/api/top-langs/?username=PMS-Srikanth&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
