@@ -8,18 +8,18 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
-- 🎓 Computer Science student — passionate about technology, innovation, and building things that work.
-- ⚙️ **Backend-focused developer** — I like APIs, databases, and the logic running behind the scenes.
-- 🤖 Curious about intelligent systems and their real-world applications.
-- 🧩 Into software development, automation, and problem solving.
-- 🚀 Always building, always learning — experimenting with new ideas.
-- 🤝 Enjoy hackathons, tech events, and collaborative development.
+-  Computer Science student — passionate about technology, innovation, and building things that work.
+-  **Backend-focused developer** — I like APIs, databases, and the logic running behind the scenes.
+-  Curious about intelligent systems and their real-world applications.
+-  Into software development, automation, and problem solving.
+-  Always building, always learning — experimenting with new ideas.
+-  Enjoy hackathons, tech events, and collaborative development.
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages**
 
@@ -41,7 +41,7 @@
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
 | Project | What it is |
 |---|---|
@@ -54,7 +54,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PMS-Srikanth&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
@@ -62,7 +62,7 @@
 
 ---
 
-### 🔗 Connect
+###  Connect
 
 <p>
   <a href="https://www.linkedin.com/in/p-srikanth-57a58b319/">
